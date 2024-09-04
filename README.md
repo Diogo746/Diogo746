@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="1000px">
+<img src="https://giffiles.alphacoders.com/220/220764.gif" width="800px">
 
 # [Diogo] <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="150px">
 
