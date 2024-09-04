@@ -1,6 +1,6 @@
 <img src="https://giffiles.alphacoders.com/220/220764.gif" width="800px">
 
-# [Diogo] <img src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="150px">
+# [Diogo] <img src="https://i.gifer.com/origin/d5/d5b88b45655b89b33ff6d1dc2df982ff_w200.gif" width="100px">
 
 Eu sou <strong>Diogo</strong>, <strong>estudando coding</strong> ʕ•́ᴥ•̀ʔ
 
