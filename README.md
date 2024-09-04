@@ -6,3 +6,6 @@ Eu sou <strong>Diogo</strong>, <strong>estudando coding</strong> ʕ•́ᴥ•̀
 - 💬 Pergunte-me sobre: <strong>Jogos e animes</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
 
+**Contador De Visitas**
+
+![VisitorCount](https://profile-counter.glitch.me/{Diogo746}/count.svg)
