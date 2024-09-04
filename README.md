@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:996/1*CtdykXzI3YnV7hrkaTnvCw.gif" width="500px">
+
 # [Diogo] <img src="https://forums.pokemmo.com/uploads/monthly_2023_04/Eevee.gif.e829a9b9baf317ae1740e098555d9be6.gif" width="150px">
 
 Eu sou <strong>Diogo</strong>, <strong>estudando coding</strong> ʕ•́ᴥ•̀ʔ
@@ -9,3 +11,4 @@ Eu sou <strong>Diogo</strong>, <strong>estudando coding</strong> ʕ•́ᴥ•̀
 **Contador De Visitas**
 
 ![VisitorCount](https://profile-counter.glitch.me/{Diogo746}/count.svg)
+
