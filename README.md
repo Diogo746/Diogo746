@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:996/1*CtdykXzI3YnV7hrkaTnvCw.gif" width="500px">
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="1000px">
 
 # [Diogo] <img src="https://forums.pokemmo.com/uploads/monthly_2023_04/Eevee.gif.e829a9b9baf317ae1740e098555d9be6.gif" width="150px">
 
