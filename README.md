@@ -5,7 +5,7 @@
 Eu sou <strong>Diogo</strong>, <strong>estudando coding</strong> ʕ•́ᴥ•̀ʔ
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> 
-- 💬 Pergunte-me sobre: <strong>Jogos e animes</strong>
+- 💬 Pergunte-me sobre: <strong>Jogos</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
 
 **Contador De Visitas**
