@@ -1,6 +1,6 @@
 <img src="https://64.media.tumblr.com/734036212ce8b8d11d14c703d201de4a/e9fb754dc1dd895f-01/s2048x3072/aa44861be049e1ed5007357f7bbbff9492daae04.gifv" width="900px">
 
-# [Diogo] <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee430770-df2f-493d-8e11-e178794b36a5/d4txxx1-9177727a-412a-4ef8-9b06-92a7f8490ba6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlNDMwNzcwLWRmMmYtNDkzZC04ZTExLWUxNzg3OTRiMzZhNVwvZDR0eHh4MS05MTc3NzI3YS00MTJhLTRlZjgtOWIwNi05MmE3Zjg0OTBiYTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0h3jC0lei2cVVENjeoG36YQ7Gu5Vwp0eV3COsSgaekM" width="70px">
+# [Diogo] <img src="https://66.media.tumblr.com/tumblr_mc6ibl2GuO1rfjowdo1_500.gif" width="70px">
 
 Eu sou <strong>Diogo</strong>, <strong>estudante de análise e desenvolvimento de sistemas</strong>
 - 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> 
