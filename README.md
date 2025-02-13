@@ -1,12 +1,16 @@
 <img src="https://64.media.tumblr.com/734036212ce8b8d11d14c703d201de4a/e9fb754dc1dd895f-01/s2048x3072/aa44861be049e1ed5007357f7bbbff9492daae04.gifv" width="900px">
 
-# [Diogo] <img src="https://66.media.tumblr.com/tumblr_mc6ibl2GuO1rfjowdo1_500.gif" width="70px">
+# [Diogo] 
 
 Eu sou <strong>Diogo</strong>, <strong>estudante de análise e desenvolvimento de sistemas</strong>
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> e <strong>Java</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
 
+Hi! My name is Diogo. I'm 32 years old living in Recife. I’m currently learning to code and diving into programming with a focus on languages like Java and JavaScript.  
+Graduated in Psychology, I like to study about human behavior.
+I'm a dedicated and positive person who likes to work with others to solve problems and create solutions for everyday life.
+In my free time I like to gaming and reading Sci-fi and Horror books.
 
 
 <h3 align="left">Languages and Tools:</h3>
